@@ -1,0 +1,14 @@
+# ryu-user 8.1.0 OPM8.190605.005 5749003 release-keys
+- manufacturer: google
+- platform: tegra210-dragon
+- codename: dragon
+- flavor: ryu-user
+- release: 8.1.0
+- id: OPM8.190605.005
+- incremental: 5749003
+- tags: release-keys
+- fingerprint: google/ryu/dragon:8.1.0/OPM8.190605.005/5749003:user/release-keys
+- is_ab: false
+- brand: google
+- branch: ryu-user-8.1.0-OPM8.190605.005-5749003-release-keys
+- repo: google_dragon_dump
